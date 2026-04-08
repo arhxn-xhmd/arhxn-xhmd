@@ -1,46 +1,55 @@
-# 👋 Hi, I'm Arhaan Ahmed
+👋 Hi, I'm Arhaan Ahmed
 
-🎒 I'm a **Class 9 student** with a growing passion for **coding** and **software development**.  
-💻 I love exploring how technology works and creating projects that solve real problems or just spark creativity.  
-🚀 Always learning, building, and pushing boundaries!
-
----
-
-## 🧠 What I'm Learning
-- HTML, CSS & JavaScript 🌐
-- Python 🐍
-- C++ (Just getting started!) 💾
-- Git & GitHub 📁
+🎒 I'm a Class 10 student with a strong and growing passion for coding and software development.
+💻 I enjoy understanding how technology works and building projects that solve problems, automate tasks, or simply bring ideas to life.
+🚀 Constantly learning, experimenting, and leveling up my skills!
 
 ---
 
-## 🔨 Projects I'm Working On
-- A simple portfolio website (to showcase my journey)
-- Python-based mini games and tools
-- JavaScript web apps
-- Experimenting with Arduino and basic electronics 🔌
+🧠 What I'm Learning
+
+- HTML, CSS & JavaScript 🌐 (building real websites)
+- Python 🐍 (games, logic-based apps, and projects)
+- Git & GitHub 📁 (version control & project management)
+- Full-stack development ⚙️
 
 ---
 
-## 📌 Goals
-- Become a full-stack developer
-- Build cool apps that people actually use
-- Contribute to open-source someday!
-- Join coding competitions and hackathons 🧩
+🔨 Projects I'm Working On
+
+- 🌐 A portfolio website to showcase my journey and skills
+- 🎮 Python-based games and complex logic projects
+- 🌍 A movie player-style website UI with JavaScript features
+- 🏫 A school website project
+- ⚔️ Python RPG games – "Monster Battle Simulator: The Rise of a Hero" with battles, quests, and inventory system
+- 💡 Exploring Arduino & basic electronics for hands-on tech projects
 
 ---
 
-## 🧩 Fun Facts
-- I love problem solving and debugging — it’s like solving puzzles!
-- Big fan of tech YouTubers and online coding challenges
-- I learn something new **every single day**
+📌 Goals
+
+- Become a skilled full-stack developer
+- Build impactful apps that people actually use
+- Participate in hackathons and coding competitions 🧩
+- Contribute to open-source projects
+- Keep improving problem-solving and real-world development skills
 
 ---
 
-## 📫 Let's Connect
-- GitHub: [@arhxn-xhmd](https://github.com/arhxn-xhmd)
+🧩 Fun Facts
+
+- I love debugging — it feels like solving a mystery 🕵️‍♂️
+- I enjoy building complex logic systems in my projects
+- Always experimenting with new ideas and features
+- I try to learn something new every single day
+
+---
+
+📫 Let's Connect
+
+- GitHub: "@arhxn-xhmd" (https://github.com/arhxn-xhmd)
 - Email: ahmedarhaan732@gmail.com
 
 ---
 
-> "Code is not just syntax — it's a way to think, build, and create the future."
+«"Code is not just syntax — it's a way to think, build, and create the future."»
