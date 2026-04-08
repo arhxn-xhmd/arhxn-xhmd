@@ -19,9 +19,10 @@
 
 - 🌐 A portfolio website to showcase my journey and skills
 - 🎮 Python-based games and complex logic projects
+- 🧠 A console-based study assistant app with tasks, rewards, and progress tracking
 - 🌍 A movie player-style website UI with JavaScript features
 - 🏫 A school website project
-- ⚔️ Python RPG games – "Monster Battle Simulator: The Rise of a Hero" with battles, quests, and inventory system
+- ⚔️ Python RPG games – "Kingdom Quest: The Rise of a Hero" with battles, quests, and inventory system
 - 💡 Exploring Arduino & basic electronics for hands-on tech projects
 
 ---
@@ -47,9 +48,9 @@
 
 📫 Let's Connect
 
-- GitHub: "@arhxn-xhmd" (https://github.com/arhxn-xhmd)
+- GitHub: @arhxn-xhmd (https://github.com/arhxn-xhmd)
 - Email: ahmedarhaan732@gmail.com
 
 ---
 
-«"Code is not just syntax — it's a way to think, build, and create the future."»
+"Code is not just syntax — it's a way to think, build, and create the future."
